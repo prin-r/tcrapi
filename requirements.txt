@@ -15,7 +15,7 @@ eth-typing==2.0.0
 eth-utils==1.4.1
 eventlet==0.24.1
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-GraphQL==2.0.0
 Flask-RESTful==0.3.7
 Flask-SocketIO==3.1.2
